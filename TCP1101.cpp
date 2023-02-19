@@ -779,7 +779,7 @@ int main()
 				
 				if(z.size() < 1)
 				{
-					cout << endl << endl << "CONGRATULATIONS! ALL ZOMBIES ARE DEAD, ALIEN WINS!";
+					cout << endl << endl << "CONGRATULATIONS!! ALL ZOMBIES ARE DEAD, ALIEN WINS!";
 					restart = true;
 					break;
 				}
